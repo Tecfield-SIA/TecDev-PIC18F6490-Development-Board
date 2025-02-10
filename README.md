@@ -56,6 +56,8 @@ ________________________________________
 3.	Using Peripherals: Interact with the onboard LED, button, and addressable RGB LEDs for basic functionality tests and debugging assistance.
 4.	I2C/SPI Selection: Use the toggle switch to select between SPI and I2C modes.
 
+![TecDev-PIC18F6490](https://github.com/Tecfield-SIA/TecDev-PIC18F6490-Development-Board/blob/main/Images/1.jpg)
+
 ________________________________________
 
 ## Final Thoughts
@@ -67,5 +69,4 @@ Feel free to explore, contribute, and share your feedback!
 __Contact__
 
 For questions or discussions, feel free to open an issue or reach out via LinkedIn or email me at Tecfield@live.com.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/siavash-alizadeh-tecfield)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](tecfield@live.com)
+www.linkedin.com/in/siavash-alizadeh-tecfield
