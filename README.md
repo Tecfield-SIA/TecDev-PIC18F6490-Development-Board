@@ -1,6 +1,6 @@
 # TecDev-PIC18F6490-Development-Board
 
-Custom development board for PIC18F6490 with debugging and connectivity features
+Custom development board for PIC18F6490 with debugging and connectivity features 
 
 ![TecDev-PIC18F6490](https://github.com/Tecfield-SIA/TecDev-PIC18F6490-Development-Board/blob/main/Images/PIC18F6490.gif)
 
